@@ -1,0 +1,3 @@
+[submodule "playwright-start"]
+	path = playwright-start
+	url = https://github.com/jaomarcs7/playwright-start.git
